@@ -6,4 +6,4 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-Kaiqi Jin
+Real name is Kaiqi Jin(金凯祺 in Chinese). Born in Zhejiang Shaoxing, graduated from Shanghai Jiao Tong University(SJTU). 
