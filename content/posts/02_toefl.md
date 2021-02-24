@@ -2,7 +2,8 @@
 title: "一年七战从78到106，我的血泪战Toefl史"
 date: 2021-02-24T23:29:32+08:00
 type:
-- essay
+- post 
+- posts
 ---
 
 # 一年七战从78到106，我的血泪战Toefl史
