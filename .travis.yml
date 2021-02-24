@@ -25,8 +25,7 @@ install:
 
 # script - run the build script
 script:
-    - hugo 2> /dev/null
-    - echo "$CNAME_URL" > public/CNAME
+    - hugo
 
 deploy:
   provider: pages
@@ -35,8 +34,7 @@ deploy:
   # email: $GITHUB_EMAIL
   # name: $GITHUB_USERNAME
   verbose: true
-  keep-history: true
-  local-dir: public
-  target_branch: master  # branch contains blog content
+  keep_history: true
+  local_dir: public
   on:
-    branch: code  # branch contains Hugo generator code
+    branch: master  # branch contains Hugo generator code
