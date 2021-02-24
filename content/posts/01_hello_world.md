@@ -1,7 +1,6 @@
 ---
 title: "第一篇博文"
 date: 2021-02-24T23:08:32+08:00
-draft: true
 type:
 - tech
 ---
